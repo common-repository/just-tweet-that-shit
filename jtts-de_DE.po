@@ -1,0 +1,200 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Just Tweet That Shit 0.2\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2010-06-26 13:58+0100\n"
+"PO-Revision-Date: 2010-06-26 14:38+0100\n"
+"Last-Translator: Marcel Pauly <marcelpauly@googlemail.com>\n"
+"Language-Team: Marcel Pauly <marcelpauly@googlemail.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-Language: German\n"
+"X-Poedit-Country: GERMANY\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: jtts.php:76
+msgid "Help"
+msgstr "Hilfe"
+
+#: jtts.php:77
+msgid "If you have some issues during the configuration, you'll find further information <a href=\"http://wordpress.org/extend/plugins/just-tweet-that-shit/faq/\" target=\"_blank\">in the FAQ</a> and <a href=\"http://www.marcelpauly.de/just-tweet-that-shit/#english\" target=\"_blank\">in my blog</a>. Feel free to post a comment for asking questions or reporting bugs."
+msgstr "Solltest du Probleme bei der Konfiguration haben, findest du weiterführende Informationen <a href=\"http://wordpress.org/extend/plugins/just-tweet-that-shit/faq/\" target=\"_blank\">in den FAQs</a> und <a href=\"http://www.marcelpauly.de/just-tweet-that-shit/\" target=\"_blank\">in meinem Blog</a>, wo du bei offenen Fragen auch gerne die Kommentar-Funktion nutzen kannst. Das Gleiche gilt natürlich, wenn du einen Fehler entdeckt hast - immer her damit."
+
+#: jtts.php:78
+msgid "Spread your Love"
+msgstr "Empfehlen &amp; unterstützen"
+
+#: jtts.php:80
+msgid "You like the Plugin? Recommend it to your friends on <a href=\"http://twitter.com/home?status=Great+WordPress+plugin+to+tweet+your+new+articles:+Just+Tweet+That+Shit+http://j.mp/dpDvlC\" title=\"Recommend this plugin to your followers on Twitter\" target=\"_blank\">Twitter</a> and <a href=\"http://www.facebook.com/sharer.php?u=http://www.marcelpauly.de/just-tweet-that-shit/&t=Just%20Tweet%20That%20Shit\" title=\"Recommend this plugin to your friends on Facebook\" target=\"_blank\" onclick=\"window.open(this.href, 'facebook', 'width=626, height=432'); return false;\">Facebook</a> or donate via <a href=\"http://www.flattr.com/\" target=\"_blank\">Flattr</a>."
+msgstr "Gefällt dir das Plugin? Dann zeige es deinen Freunden auf <a href=\"http://twitter.com/home?status=Cooles+WordPress-Plugin+zum+Twittern+von+neuen+Artikeln:+Just+Tweet+That+Shit+http://j.mp/dpDvlC\" title=\"Zeige dieses Plugin deinen Followern auf Twitter\" target=\"_blank\">Twitter</a> und <a href=\"http://www.facebook.com/sharer.php?u=http://www.marcelpauly.de/just-tweet-that-shit/&t=Just%20Tweet%20That%20Shit\" title=\"Zeige dieses Plugin deinen Freunden auf Facebook\" target=\"_blank\" onclick=\"window.open(this.href, 'facebook', 'width=626, height=432'); return false;\">Facebook</a> oder spende per <a href=\"http://www.flattr.com/\" target=\"_blank\">Flattr</a>."
+
+#: jtts.php:87
+msgid "Your blog has been successfully connected to your Twitter account."
+msgstr "Dein Blog wurde erfolgreich mit deinem Twitter-Account verbunden."
+
+#: jtts.php:93
+msgid "You denied the access."
+msgstr "Du hast den Zugriff verweigert."
+
+#: jtts.php:99
+msgid "Connection failed. Please check the \"Consumer key\" and \"Consumer secret\"."
+msgstr "Die Verbindung zu Twitter ist fehlgeschlagen. Bitte überprüfe deine Angaben in den Feldern \"Consumer key\" and \"Consumer secret\"."
+
+#: jtts.php:106
+#: jtts.php:152
+msgid "Save Changes"
+msgstr "Änderungen übernehmen"
+
+#: jtts.php:107
+msgid "Settings saved."
+msgstr "Einstellungen gespeichert."
+
+#: jtts.php:113
+#: jtts.php:201
+msgid "Delete connection"
+msgstr "Verbindung löschen"
+
+#: jtts.php:114
+msgid "Connection deleted."
+msgstr "Verbindung gelöscht."
+
+#: jtts.php:120
+msgid "Your Server doesn't comply with the requirements: it doesn't support cURL."
+msgstr "Dein Server erfüllt nicht die technischen Voraussetzungen: Er unterstützt kein cURL."
+
+#: jtts.php:121
+msgid "Your Server doesn't comply with the requirements: it doesn't support OpenSSL."
+msgstr "Dein Server erfüllt nicht die technischen Voraussetzungen: Er unterstützt kein OpenSSL."
+
+#: jtts.php:122
+msgid "Your Server doesn't comply with the requirements: it doesn't support cURL and OpenSSL."
+msgstr "Dein Server erfüllt nicht die technischen Voraussetzungen: Er unterstützt kein cURL und OpenSSL."
+
+#: jtts.php:126
+msgid "General Settings"
+msgstr "Allgemeine Einstellungen"
+
+#: jtts.php:129
+msgid "Automatic Tweet"
+msgstr "Automatischer Tweet"
+
+#: jtts.php:130
+msgid "[%title%] = title of the article, [%url%] = URL of the article, [%tag%] = Tags of the article transformed to Twitter Hashtags,  [%cat%] = Categories of the article transformed to Twitter Hashtags"
+msgstr "[%title%] = Überschrift des Artikel, [%url%] = URL des Artikels, [%tag%] = Schlagwörter des Artikels werden zu Twitter-Hashtags,  [%cat%] = Kategorien des Artikel werden zu Twitter-Hashtags"
+
+#: jtts.php:133
+msgid "URL shortening"
+msgstr "Kurz-URL-Dienst"
+
+#: jtts.php:136
+msgid "don't shorten URLs"
+msgstr "URLs nicht kürzen"
+
+#: jtts.php:137
+msgid "Login"
+msgstr "Login"
+
+#: jtts.php:138
+msgid "bit.ly Login"
+msgstr "bit.ly-Login"
+
+#: jtts.php:144
+msgid "<a href=\"http://bit.ly/\" target=\"_blank\">bit.ly</a> username:"
+msgstr "<a href=\"http://bit.ly/\" target=\"_blank\">bit.ly</a> Benutzername:"
+
+#: jtts.php:146
+msgid "bit.ly API Key:"
+msgstr "bit.ly API-Key:"
+
+#: jtts.php:158
+#: jtts.php:199
+msgid "Twitter Connection"
+msgstr "Verbindung zu Twitter"
+
+#: jtts.php:159
+msgid "To connect your blog to Twitter, three steps are necessary:"
+msgstr "Um dein Blog mit Twitter zu verbinden, sind drei Schritte notwendig:"
+
+#: jtts.php:160
+msgid "1. Twitter Application"
+msgstr "1. Twitter-Applikation"
+
+#: jtts.php:161
+msgid "First of all you have to register an own Twitter Application for your blog:"
+msgstr "Du musst zunächst für dein Blog eine eigene Twitter-Applikation erstellen:"
+
+#: jtts.php:163
+msgid "Visit <a href=\"http://twitter.com/apps/new\" target=\"_blank\">this page</a>, if reqired log in with your Twitter credentials."
+msgstr "Gehe auf <a href=\"http://twitter.com/apps/new\" target=\"_blank\">diese Seite</a>, logge dich ggf. mit deinen Twitter-Daten ein."
+
+#: jtts.php:164
+msgid "Application Name: type in any name to identify your application; e.g. the title of your blog."
+msgstr "Application Name: Trage hier einen beliebigen Namen ein, den die Applikation tragen soll; z.B. der Name deines Blogs."
+
+#: jtts.php:165
+msgid "Description: excogitate a brief description of your application. Make sure the field's not empty."
+msgstr "Description: Überlege dir eine kurze Beschreibung für die Applikation. Egal was, hauptsache das Feld bleibt nicht leer."
+
+#: jtts.php:166
+msgid "Application Website: enter <code>[%url%]/</code>."
+msgstr "Application Website: Trage hier <code>[%url%]/</code> ein."
+
+#: jtts.php:167
+msgid "Application Type: choose \"Browser\"."
+msgstr "Application Type: Wähle hier \"Browser\" aus."
+
+#: jtts.php:168
+msgid "Callback URL: enter <code>[%url%]/</code> again."
+msgstr "Callback URL: Trage hier wieder <code>[%url%]/</code> ein."
+
+#: jtts.php:169
+msgid "Default Access type: choose &quot;Read &amp; Write&quot;."
+msgstr "Default Access type: Wähle hier &quot;Read &amp; Write&quot; aus."
+
+#: jtts.php:170
+msgid "Save."
+msgstr "Speichern."
+
+#: jtts.php:172
+msgid "2. Enter &quot;Consumer key&quot; and &quot;Consumer secret&quot;"
+msgstr "2. &quot;Consumer key&quot; und &quot;Consumer secret&quot; eintragen"
+
+#: jtts.php:173
+msgid "Your Twitter Application provides &quot;Consumer key&quot; and &quot;Consumer secret&quot;. Enter them in this fields:"
+msgstr "Deine Twitter-Applikation stellt dir den &quot;Consumer key&quot; und &quot;Consumer secret&quot; zur Verfügung. Trage sie hier ein:"
+
+#: jtts.php:176
+msgid "Consumer key"
+msgstr "Consumer key"
+
+#: jtts.php:180
+msgid "Consumer secret"
+msgstr "Consumer secret"
+
+#: jtts.php:184
+msgid "3. Allow connection"
+msgstr "3. Verbindung erlauben"
+
+#: jtts.php:185
+msgid "Click on the following button. Twitter will ask you to allow the access. After confirmation you'll return to this page and the connection is established."
+msgstr "Klicke auf den folgenden Button. Twitter wird dich fragen, ob du den Zugriff erlauben möchtest. Sobald du die Erlaubnis erteilt hast, gelangst du wieder hierher zurück und die Verbindung ist hergestellt."
+
+#: jtts.php:186
+msgid "Connect to Twitter"
+msgstr "Jetzt mit Twitter verbinden"
+
+#: jtts.php:191
+msgid "Please type in your \"Consumer key\" and \"Consumer secret\"."
+msgstr "Bitte fülle die Felder \"Consumer key\" und \"Consumer secret\" aus."
+
+#: jtts.php:200
+msgid "Connection established."
+msgstr "Verbindung hergestellt."
+
+#: jtts.php:213
+msgid "Just blogged: [%title%] [%url%]"
+msgstr "Frisch gebloggt: [%title%] [%url%]"
+
